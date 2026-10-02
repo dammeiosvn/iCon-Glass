@@ -4,7 +4,7 @@ Webclip độc lập để vẽ icon kính trên iPhone, xuất PNG, đóng bộ
 
 Sáng tối theo hệ thống. Nút viên thuốc kính. Xem trước nằm góc trái. Bố cục tự chia theo điện thoại, máy tính bảng và màn hình lớn.
 
-**Dùng ngay:** [dammeiosvn.github.io/iCon-Glass](https://dammeiosvn.github.io/iCon-Glass/)
+[**Dùng ngay:**](https://dammeiosvn.github.io/iCon-Glass/)
 
 ## Làm được gì
 
